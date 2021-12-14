@@ -1,5 +1,6 @@
 # Un container pour tester wordpress
-
+## pré requis
+- Avoir installé Docker desktop sur sa machine de travail.
 ## Installation
 - Télécharger simplement cette archive
 - dans une console dans le dossier tapez:
